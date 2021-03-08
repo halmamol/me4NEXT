@@ -1,0 +1,17 @@
+condition of event_list.HEPEvt
+
+  nuclei         Xe
+  n_select       1
+  l_select       0
+  E_n            565
+  anal_condition 110
+  ev_total       20000
+
+  filename       migdal_Xe1s_n565keV/migdal_ibe_Xe.dat
+  M_N            1.20163e+08
+  PDG_code       1000541310
+  enable_precise_recoil  1
+  enable_q_hosei         1
+  enable_q2_hosei        0
+  number_of_neutron_per_migdal       1.53934e+06
+  averaged_probability_of_migdal     6.49631e-07
